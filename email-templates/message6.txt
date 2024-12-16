@@ -1,0 +1,10 @@
+Hello {name},
+
+I’m {yourname} and I work in A&R at HotDrop.
+
+I am reaching out with a free opportunity for you to reach more fans.{song_msg} At HotDrop, we’ve developed a music discovery platform that combines Spotify and TikTok. You can upload your music at no cost and fans will immediately start seeing your music in our Explore feed. You will select 30 second snapshots of your song to be shown, and users have the opportunity to like songs they see in the feed. Users can listen to songs in full upon liking the song, which we’re seeing at a 90% rate. We also have a few cool features such as personalized artist pages that users can explore to learn more about you.  
+
+We believe that it is hard for artists to reach new fans, so our mission is to make this easier. Sign up today for free and get your music heard: {link}. Please do not hesitate to reach out with any questions.
+
+All the best,
+{yourname}

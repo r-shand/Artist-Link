@@ -1,0 +1,10 @@
+Hey {name},
+
+My name is {yourname}, I’m an A&R at HotDrop. 
+
+We believe in the power of music to connect people and bring joy to their lives. That's why we've created a music discovery platform that helps people discover new and exciting artists like you.{song_msg} As a HotDrop artist, you'll have the opportunity to showcase your music to a global audience and connect with fans who appreciate your unique sound. With features like personalized artist pages, the ability to upload your music, and detailed analytics, HotDrop makes it easy for you to grow your fanbase and build your brand.We believe that your music deserves to be heard, and with HotDrop, you'll have the platform you need to make that happen. 
+
+Sign up for free today and start reaching new fans all over the world: {link} If you have any questions I’m happy to walk you through them.
+
+Cheers,
+{yourname}

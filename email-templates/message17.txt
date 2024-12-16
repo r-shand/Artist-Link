@@ -1,0 +1,10 @@
+Hello {name}!
+
+My name is {yourname}, and I work for a startup called HotDrop – a new iOS app that connects independent artists to superfans at no cost!{song_msg} The app works like TikTok, but without the video aspect, and for artists only. Listeners can scroll through 30-second snippets of songs uploaded by independent artists, and from there, they can like, listen to the full song, and share them with friends. Having only been out for three months (publicly), we are already on track to beat Spotify’s record for new users in year one! We have also been named one of the best ways to discover music by Wall Street Journal.
+
+If you’re interesting in trying out the platform and connecting to new fans, please use this sign up link: {link}
+
+Please don’t hesitate to reach out if you have any questions. And let me know what you think if you choose to sign up!
+
+Best,
+{yourname}

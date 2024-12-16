@@ -1,0 +1,10 @@
+Hi there {name},
+
+My name is {yourname} and I would love to talk to you about an opportunity to get your music heard using HotDrop!{song_msg} I’m an artist, as well, and as soon as I heard about HotDrop I uploaded my music and have already connected with so many new fans. I think your stuff would crush it, too!
+
+HotDrop is a platform designed to connect artists directly with listeners, with our main goal being to get artists like yourself heard by new people! It’s like many other music platforms with the uniqueness being your music will be pushed to new listeners as soon as you upload it! We've  already empowered 2M+ discovery moments for artists like yourself, and we’d love to add you to that growing list.
+
+If you’re interested in signing up, you can do so at this link: {link}. It takes only a few minutes, and I’d be happy to answer any questions that may come up!
+
+Sincerely,
+{yourname}

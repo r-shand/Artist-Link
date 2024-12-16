@@ -1,0 +1,8 @@
+Hi {name}!
+
+I’m with a company called HotDrop, a music discovery platform that gets artists heard.{song_msg} We've already empowered 2M+ discovery moments for artists like you. No payola, no cost to you, no BS. I listened to some of your music and I think it'll crush it on our platform. HotDrop is like many other music platforms with the uniqueness being your music will be pushed to new listeners as soon as you upload it. The Wall Street Journal actually just named us one of the best platforms to discover new music (I can link you to the article if interested).
+
+It’s totally free to upload and ownership of your music. In fact you could remove your music from the platform if you wanted to. It only takes minutes to get set up. This is the link if you’d like to sign up or you can search us on Google and sign up that way. {link}
+
+Cheers,
+{yourname}

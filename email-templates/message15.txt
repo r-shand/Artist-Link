@@ -1,0 +1,6 @@
+Hey {name}, 
+
+My name is {yourname}, and I am an A&R rep for HotDrop, which is a music discovery platform that gets artists connected to fans in real time for free.{song_msg} The Wall Street Journal actually just named us one of the best platforms to discover new music (https://www.wsj.com/articles/music-apps-to-discover-tunes-in-new-ways-11670447709).  It’s 100% free to upload and you keep ownership of your music. There are no loopholes. Our goal is to help emerging artists and connect fans to new music. If interested, here is the link to sign-up: {link}
+
+Best, 
+{yourname}

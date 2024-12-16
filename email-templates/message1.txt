@@ -1,0 +1,10 @@
+Hey {name}, 
+
+My name is {yourname}, I'm an A&R at HotDrop, the hot new platform that connects independent artists to new superfans for free.{song_msg}
+
+The way it works is as if Spotify and Tik Tok had a child. Avid music listeners looking for new music scroll through 30-second snippets of songs uploaded by independent artists. From there, they can like (which automatically saves the song to their library), and listen to the full track. Like I said, completely free. The platform has only been out three months (publicly), and yet we are already on pace to beat Spotify's record for new users in year one, we also just got named one of the best ways to discover music by the Wall Street Journal.
+
+Here is the link to sign up: {link}  If you have any questions let me know. 
+
+Best,
+{yourname}

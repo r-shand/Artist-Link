@@ -1,0 +1,12 @@
+Hi {name}!
+
+I'm {yourname}, a representative at HotDrop, a new free platform for artists to reach more listeners.{song_msg}
+
+HotDrop is like many other music platforms with the uniqueness being your music will be pushed to new listeners as soon as you upload it. However, it differs from other platforms as the concept of the app is similar to TikTok where snippets (of your choosing) of your songs are pushed out towards listeners who can swipe through new songs.
+
+We've already empowered 2M+ discovery moments for artists and were named the best platform to discover new music by the Wall Street Journal (linked below)! I'd like to emphasize that this is completely free and you will keep 100% ownership of your and are free to remove it any time! It takes a few minutes to set up but if this is something your interested in you can follow the link below to sign up or search us on google to sign up that way.
+
+{link}
+
+Cheers,
+{yourname}

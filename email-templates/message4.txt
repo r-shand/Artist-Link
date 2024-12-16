@@ -1,0 +1,12 @@
+Hey {name},
+
+I saw you are a fellow musician and I wanted to offer you an opportunity to grow your listener base :) I promise there's no scams or fake promo and I'm not trying to sell anything-- I'm also an artist myself :)
+
+I work at a start-up called HotDrop that connects underground artists with fans looking to find new music. The concept is like Tik-Tok by previewing short song snippets, but audio only and for only musicians to post.{song_msg}
+
+We're open for beta release right now and looking for new artists to try out the platform-it's totally free. If you're interested and would like to give it a shot, just sign up here {link} and you can start uploading music for free right away. You could check out our iOS app too to see what it's like from the user end.
+
+Of course reach out if you have any questions or feedback as well!
+
+Cheers,
+{yourname}

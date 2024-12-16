@@ -1,0 +1,6 @@
+Hey {name}, 
+
+My name is {yourname}, and I am an A&R rep for HotDrop, which is a music discovery platform that gets artists connected to fans in real time for free.{song_msg} There are no costs or loopholes. This platform is built to help music lovers connect with independent and emerging artists. We have been  able to get many artists discovered and reach thousands of new listeners. If interested, you can join our platform at this link: {link}
+
+Best, 
+{yourname}

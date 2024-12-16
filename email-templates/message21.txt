@@ -1,0 +1,11 @@
+Hi {name}!
+
+I’m with a company called HotDrop! We’re a new and free music platform that allows users to swipe through snippets of songs to quickly and easily discover new music.{song_msg} The concept of our app is similar to TikTok and allows the artist to build a “Superfan” base as well as reach a larger number of listeners.
+
+We've already empowered 2M+ discovery moments for artists like you. No payola, no cost to you, no BS. I listened to some of your music and I think it'll crush it on our platform. The Wall Street Journal actually just named us one of the best platforms to discover new music (I can link you to the article if interested)
+
+
+It's totally free to upload and ownership of your music. In fact you could remove your music from the platform if you wanted to. It only takes minutes to get set up. This is the link if you’d like to sign up or you can search us on Google and sign up that way. {link}
+
+Cheers!
+{yourname}

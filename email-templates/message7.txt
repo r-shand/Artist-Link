@@ -1,0 +1,10 @@
+Hey {name},
+
+My name is {yourname} and I run A&R at HotDrop.
+
+We want to help you reach more fans, and can do so for free. HotDrop helps connect artists to super fans through our platform.{song_msg} Once you upload your music, fans will begin to discover your songs immediately. All songs have an equal chance of appearing on one’s Explore page. Fans can interact with your artist profile upon discovering you. We also provide detailed analytics about your fanbase. 
+
+We want to make it easier for artists to reach fans, and would love to invite you to sign up to join the movement today: {link}. I also would be happy to answer any questions you may have.
+
+Cheers, 
+{yourname}

@@ -1,0 +1,10 @@
+Hello {name}!
+
+My name is {yourname} and I'm a fellow artist and A&R rep here at HotDrop! I’m hoping to chat with you about an opportunity to share your music using our platform.{song_msg}
+
+HotDrop is an app designed to get you heard by brand new listeners; as soon as you upload it, your music will be pushed directly to new users!  It’s all about connecting artists directly with new fans, and we've already empowered 2M+ discovery moments for artists like yourself. I’m a big fan of your stuff, and I think your music would do really well on the platform. You can sign up using this link: {link} (it takes only a few minutes!) and feel free to reach out to me at this email with any questions!
+
+Have a good one!
+
+Thanks,
+{yourname}

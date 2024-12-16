@@ -1,0 +1,10 @@
+Hey {name},
+
+My name is {yourname}, I'm an A&R rep at HotDrop, a music discovery platform that gets artists heard immediately upon uploading your music.{song_msg} 
+
+We've already empowered 2M+ discovery moments for artists. No payola, no cost to you, no BS. I'm a big fan of your music and it'll crush it on our platform. 
+
+Here is the link to sign up: {link}
+
+Take care,
+{yourname}

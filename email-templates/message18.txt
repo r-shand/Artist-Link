@@ -1,0 +1,10 @@
+Hi {name}!
+
+My name is {yourname}, and I wanted to reach out to you for this super cool opportunity to grow your fanbase.{song_msg} I’ve just started working at a startup called HotDrop. HotDrop is a new platform that connects independent artists to fans for free!
+
+The app works as if Spotify and TikTok had a child lol. Listeners get to listen to 30-second snippets of songs uploaded by independent artists, and from there, they are able to like (automatically save the song to their library), share with friends, and listen to the full track. Ever since being out publicly, HotDrop has been named one of the best ways to discover new music by Wall Street Journal. We have also empowered 2M+ discovery moments for artists already. 
+
+If this sounds like something you’d like to try, sign up at this link: {link} Let me know what you think if you choose to sign up and of course, do not hesitate to ask me any questions!
+
+Thanks,
+{yourname}

@@ -1,0 +1,12 @@
+Hey {name},
+
+My name is {yourname} and I'm writing to talk to you about an opportunity to share your music!{song_msg} As a fellow artist, I know how important it is to constantly reach new listeners, so I wanted to see if you'd be interested in signing up for our platform HotDrop.
+
+HotDrop is a platform designed to connect artists directly with listeners, with our main goal being to get artists like yourself heard by new people! It’s like many other music platforms with the uniqueness being your music will be pushed to new listeners as soon as you upload it! We've already empowered 2M+ discovery moments for artists like yourself, and I think your music would crush it. It's completely free and takes only a few minutes to sign up and upload your tunes!
+
+If you're interested, you can sign up using this link: {link}. Happy to answer any questions that may come up!
+
+Have a great rest of your week!
+
+Best,
+{yourname}

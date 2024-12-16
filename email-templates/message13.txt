@@ -1,0 +1,10 @@
+Hey {name},
+
+I hope this message finds you well. I'm an A&R representative for a new music app called HotDrop and we're getting every current artist to join our app to get discovered by new fans to build a bigger fanbase.{song_msg} Having your band on the app would be a huge win for getting an established artist in our world, because we're still in the crucial development phase of a startup.
+
+I'd love to share this opportunity with you because it's free and easy to make an account to share 30-second clips with Gen-Z online. Here is the link to sign up: {link}
+
+This app can be the answer for sorting through new music and setting up a bio for new fans to connect with you. We've already empowered 2M+ discovery moments for artists like you! Please let me know if you have any questions!  
+
+Best,
+{yourname}

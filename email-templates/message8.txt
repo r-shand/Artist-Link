@@ -1,0 +1,10 @@
+Hey {name},
+
+I am {yourname}, A&R here at HotDrop.
+
+Our goal is to help artists get discovered and reach fans. Our platform is free for users and artists to use and upload their music.{song_msg} Upon uploading music, artists select a 30 second snapshot of their song that is immediately eligible to appear on users’ Explore feed. Users have the opportunity to like songs on this page similar to a structure like TikTok. Upon liking a song, a user discovers the artist and can interact directly with their interactive artist profile. Users can also listen to the song in full, which we’re seeing happen 90% of the time.
+
+Artists need to be discovered very easily, so sign up and join the movement to get your music heard for free: {link}. I am down to answer questions or concerns you may have at any point.
+
+All the best, 
+{yourname}

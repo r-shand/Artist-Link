@@ -1,0 +1,12 @@
+Hey {name}!
+
+I noticed that you are a fellow musician! I’m reaching out to you to let you know about a really cool opportunity to connect to fans who want to discover new music.{song_msg} I promise I’m not trying to sell you anything.
+
+I work for HotDrop, a new platform that connects independent artists with fans for free. The way it works is that listeners scroll through short snippets of songs uploaded by artists, and they’re able to like (which saves the song to their library on the platform), and share the song with their friends. HotDrop has only been out (publicly) for three months and have already empowered 2M+ discovery moments for artists.
+
+We are currently looking for artists to try out our app! Like I said, it is totally free. If you’re interested and want to give it a shot, sign up at this link: {link}
+
+Let me know what you think, and feel free to reach out to me for any questions!
+
+Sincerely,
+{yourname}
