@@ -1,0 +1,6 @@
+Email Addresses:ryan.hotdropapp@gmail.com,info.hotdropapp@gmail.com,contact.hotdropapp@gmail.com
+App Passwords:bvoqaiznengnpzuq,jsmziydorkfnupvn,kintiuhvroluqemx
+Display Name:Ryan @ HotDrop
+Name Inside Email:Ryan
+Link:studio.hotdropapp.com/login?utm_source=RyanShand
+Max Emails To Send:150
